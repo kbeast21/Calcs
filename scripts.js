@@ -1,22 +1,3 @@
-Skip to content
-kbeast21
-/
-calc2
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-calc2/script.js
-@kbeast21
-kbeast21 Add files via upload
- 1 contributor
-146 lines (111 sloc)  3.35 KB
- 
 class Calculator {
 	constructor(previousOperandTextElement, currentOperandTextElement) {
 		this.previousOperandTextElement = previousOperandTextElement
