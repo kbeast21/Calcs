@@ -120,3 +120,4 @@ allClearButton.addEventListener('click', button => {
 
 deleteButton.addEventListener('click', button => {
 		calculator.del()
+})
